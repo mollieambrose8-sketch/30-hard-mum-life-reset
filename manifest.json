@@ -1,0 +1,21 @@
+{
+  "name": "30 Hard Mum-Life Reset",
+  "short_name": "Mum-Life Reset",
+  "description": "A gentle 30-day habit and self-care reset for mums.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf4f1",
+  "theme_color": "#f6e5e8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
